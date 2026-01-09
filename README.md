@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello theyre👋 ### 
+
+Programador en python, con ganas de seguir aprendiendo. Este 2026 con mas ganas 
 
 <!--
 **JavierCCordova/JavierCCordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
